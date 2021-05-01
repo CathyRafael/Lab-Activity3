@@ -1,0 +1,152 @@
+
+.navbar2{
+	width: 100%;
+	height: 100px;
+	background: white;
+	list-style-type: none;
+	text-align: center;
+	font-family:'Monument_valley_1.2', sans-serif;
+	font-size: 32px;
+}
+
+.navbar2 li{
+	list-style: none;
+	margin: 0 25px;
+	display: inline-block;
+	list-style-type: none;
+	line-height:80px;
+	text-decoration: none;
+
+}
+.navbar2 ul{
+	text-decoration: none;
+	float: right;
+	position: absolute;
+	text-shadow: 10px;
+	top:170px;
+	left:450px;
+} 
+
+.navbar2 ul li a{
+	text-decoration: none;
+	color: black;
+	font-family:'Monument_valley_1.2', sans-serif;
+	font-size: 32px;
+	top:2000px;	
+} 
+
+.bg{
+  background-image: url(http://localhost/wordpress/wordpress/wp-content/uploads/2021/04/HW.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  bottom-margin:0%;
+}
+.logo{
+	width: 150px;
+	height: 150px;
+	margin-right: 550px;
+	margin-top:50px;
+	position: relative;
+	top: -50px;
+}
+.fit{
+	float: left: 
+	height: 200px;
+	width: 200px;
+	top: -75px;
+	position: relative;
+	size:20px;
+	left: -700px;
+
+}
+.S{
+	width: 60px;
+	height: auto;
+	float: right;
+	bottom: 1000px;
+	position: relative;
+	right: 20px;
+
+}
+.SI{
+	float: right;
+	right: 100px;
+	position: relative;
+	bottom: 1000px;
+	font-family:'Monument_valley_1.2', sans-serif;
+	font-size: 20px;
+}
+
+.bg2{
+  background-image: url(http://localhost/wordpress/wordpress/wp-content/uploads/2021/04/AU.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  position: relative;
+  background-position: 0px 100px;
+  width: 100%;
+
+}
+.bg3{
+  background-image: url(http://localhost/wordpress/wordpress/wp-content/uploads/2021/04/CU.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  position: relative;
+  background-position: 0px 100px;
+  width: 100%; 
+}
+.btn{
+  position: relative;
+  margin-top: 20%;
+  left: -390px;
+  top: -100px;
+  padding:1%;
+  width: 400px;
+  height: 5px;
+  padding-bottom: 30px;
+  font-size: 20px;
+  font-family: "COCOMAT",sans-serif;
+}
+/*CONTACT */
+.box1{
+	position: relative;
+	top: 250px;
+	left:-500px; 
+	box-sizing: 30px;
+	background: rgba(0,0,0,0);
+}
+.box2{
+	position: relative;
+	top: 255px;
+	left:-500px; 
+	box-sizing: 30px;
+	background: rgba(0,0,0,0);
+}
+.box3{
+	position: relative;
+	top: 265px;
+	left:-500px; 
+	box-sizing: 30px;
+	background: rgba(0,0,0,0);
+}
+.box4{
+	position: relative;
+	top: 270px;
+	left:-500px; 
+	box-sizing: 30px;
+	background: rgba(0,0,0,0);
+}
+.Message{
+	position: relative;
+	top: 260px;
+	left:-500px; 
+	box-sizing: 50px;
+	background: rgba(0,0,0,0);
+}
+.footer{
+	width:100%;
+	position: center;
+	height: 100%;
+	width: 100%;
+	bottom-margin:0%;
+}
