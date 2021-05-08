@@ -1,4 +1,7 @@
-
+html,body{
+	padding: 0;
+	margin:0;
+}
 .navbar2{
 	width: 100%;
 	height: 100px;
@@ -33,6 +36,8 @@
 	font-family:'Monument_valley_1.2', sans-serif;
 	font-size: 32px;
 	top:2000px;	
+	list-style-type: none;
+	grid-auto-flow: column;
 } 
 
 .bg{
@@ -64,16 +69,16 @@
 	width: 60px;
 	height: auto;
 	float: right;
-	bottom: 1000px;
+	bottom: 10000px;
 	position: relative;
 	right: 20px;
 
 }
 .SI{
 	float: right;
-	right: 100px;
+	right:50px;
 	position: relative;
-	bottom: 1000px;
+	bottom: 100px;
 	font-family:'Monument_valley_1.2', sans-serif;
 	font-size: 20px;
 }

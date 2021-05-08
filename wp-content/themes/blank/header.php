@@ -28,7 +28,8 @@
 			</center>
 			<center><ul>
 			<li><a href="http://localhost/wordpress/wordpress/home"> HOME </a></li>
-			<li><a href="#">RECIPES </a></li>
+			<li><a href="http://localhost/wordpress/wordpress/shop">SHOP</a></li>
+			<li><a href="http://localhost/wordpress/wordpress/cart">CART</a></li>
 			<li><a href="http://localhost/wordpress/wordpress/about">ABOUT</a></li>
 			<li><a href="http://localhost/wordpress/wordpress/contact">CONTACT US </a></li>
 			</ul>

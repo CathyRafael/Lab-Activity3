@@ -1,5 +1,6 @@
 <?php
-	/* Template Name: ABOUT */
+	/* Template Name: ABOUT*/
+
 	get_header();
 
 	?>
@@ -15,6 +16,7 @@
 </head>
 </div>	
 </body>
+
 <?php
 
 get_footer();
